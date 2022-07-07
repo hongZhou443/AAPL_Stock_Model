@@ -21,3 +21,4 @@ Python script that uses the Pytorch based deep learning neural network to derive
 Reads csv file with historical stock data on date, opening price, high price, low price, and closing price sourced from MarketWatch. Data encompasses approximately a one year period. Uses pandas dataframe to prepare data, before converting data into torch data sets. Learning rate set at 0.01 with 100 epochs.
 
 Link to Reference code:
+https://www.kaggle.com/code/taronzakaryan/predicting-stock-price-using-lstm-model-pytorch/notebook
